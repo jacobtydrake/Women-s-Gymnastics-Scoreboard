@@ -6,7 +6,8 @@ https://drive.google.com/file/d/127u7Y1mQmoNhkioNpuYLetOFIR_bw-fQ/view?usp=shari
 
 **********************************************************************
 *** Highly recommend reading the PDF version of the README instead ***
-<a id="raw-url" href="https://raw.githubusercontent.com/jacobtydrake/Women-s-Gymnastics-Scoreboard/master/readme.pdf">Download FILE</a>
+<br>
+<a id="raw-url" href="https://raw.githubusercontent.com/jacobtydrake/Women-s-Gymnastics-Scoreboard/master/readme.pdf">PDF Download Link</a>
 **********************************************************************
 
 Women’s Gymnastics Scoreboard
